@@ -1,8 +1,8 @@
 # Prueba Técnica - Data Scientist (DataKnow)
 
-**Autor:** José Gerardo Martínez Celaya  
-**Caso:** Estimación y pronóstico del costo de equipos críticos a partir de materias primas
-**Demo en línea del agente:** https://agente-costos-dataknow.streamlit.app/
+- **Autor:** José Gerardo Martínez Celaya  
+- **Caso:** Estimación y pronóstico del costo de equipos críticos a partir de materias primas
+- **Demo en línea del agente:** https://agente-costos-dataknow.streamlit.app/
 ## Descripción del proyecto
 
 Este repositorio contiene la solución para estimar el costo de dos equipos de construcción (Equipo 1 y Equipo 2) en función de tres materias primas (X, Y, Z), proyectar sus precios con intervalos de confianza mediante simulación Monte Carlo y exponer los resultados a través de un agente conversacional en Streamlit conectado a Gemini.
