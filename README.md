@@ -19,7 +19,7 @@ Este repositorio contiene la solución para estimar el costo de dos equipos de c
 - `src/`: funciones auxiliares para carga de datos, regresiones, simulación y gráficas.
 - `agente/`: código del agente conversacional y aplicación en Streamlit (`app.py`).
 - `arquitectura/`: diagrama de la arquitectura propuesta en Azure (`.png` y `.drawio`).
-- `informe/` y `presentacion/`: documento escrito y diapositivas del caso.
+- `documentos/`: documento escrito y diapositivas del caso.
 
 ## Instalación y ejecución
 
